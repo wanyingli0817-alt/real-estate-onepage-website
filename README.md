@@ -7,7 +7,7 @@
 
 > **專案簡介**：本專案為針對香港「北部都會區」戰略發展所設計的品牌級單頁（Landing Page）展示網站。完美融合**利嘉閣（Ricacorp）**的品牌視覺規範與專業地產形象，並融入創新的個人化互動組件，打造高轉化率且視覺震撼的樓盤宣傳體驗。
 
-🔗 **線上實時展示 (Live Demo)**：[👉 點此造訪 Figma 線上互動原型](https://www.figma.com/make/cTPLBXe0wHcXVraxqaDJ3E/Real-Estate-One-Page-Website?t=7W7XrVN00CyQSohB-1) 
+🔗 **線上實時展示 (Live Demo)**：[👉 點此造訪 Figma 線上互動原型](https://www.figma.com/make/cTPLBXe0wHcXVraxqaDJ3E/Real-Estate-One-Page-Website?fullscreen=1&t=i57Bp2MkByGcAnJE-1&code-node-id=0-9) 
 
 🎨 **Figma 設計原稿 (Design Prototype)**：[👉 點此檢視 Figma 原稿](https://www.figma.com/make/cTPLBXe0wHcXVraxqaDJ3E/Real-Estate-One-Page-Website?t=7W7XrVN00CyQSohB-1)
 
