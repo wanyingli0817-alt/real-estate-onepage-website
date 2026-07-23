@@ -7,6 +7,7 @@
 
 > **專案簡介**：本專案為針對香港「北部都會區」戰略發展所設計的品牌級單頁（Landing Page）展示網站。完美融合**利嘉閣（Ricacorp）**的品牌視覺規範與專業地產形象，並融入創新的個人化互動組件，打造高轉化率且視覺震撼的樓盤宣傳體驗。
 
+🔗 **線上實時展示 (Live Demo)**：[👉 點此造訪線上網頁](待填寫_部署後的網址)  
 🎨 **Figma 設計原稿 (Design Prototype)**：[👉 點此檢視 Figma 原稿](https://www.figma.com/make/cTPLBXe0wHcXVraxqaDJ3E/Real-Estate-One-Page-Website?t=7W7XrVN00CyQSohB-1)
 
 ---
@@ -35,7 +36,20 @@
 
 ---
 
+## 📂 專案架構 (Project Architecture)
+
+```text
+├── guidelines/            # 品牌設計規範與設計系統說明
+├── src/                   # 前端核心原始碼
+│   ├── components/        # 模組化組件 (樓盤卡片, 互動導航, 統計圖表等)
+│   ├── assets/            # 高解析度樓盤圖片與品牌資源
+│   └── styles/            # Tailwind CSS 樣式與主題配置
+├── index.html             # 應用程式入口
+├── vite.config.ts         # Vite 打包構建設置
+└── README.md              # 專案說明文件
+
 ## 👤 關於作者 (Author)
 
 * **Developer**: Kitty
 * **Role**: Frontend Developer / UI Engineer
+* **Contact:wanyingli0817@gmail.com
