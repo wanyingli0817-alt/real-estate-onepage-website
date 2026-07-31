@@ -49,10 +49,11 @@
 ├── vite.config.ts         # Vite 打包構建設置
 └── README.md              # 專案說明文件
 
-「本專案目前僅作為個人設計作品集與技術展示使用。未經作者授權，請勿將其用於任何商業用途或官方網站。」
-
 ## 👤 關於作者 (Author)
 
 * **Developer**: Kitty
 * **Role**: Frontend Developer / UI Engineer
 * **Contact:wanyingli0817@gmail.com
+
+
+「本專案目前僅作為個人設計作品集與技術展示使用。未經作者授權，請勿將其用於任何商業用途或官方網站。」
