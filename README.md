@@ -51,9 +51,9 @@
 
 ## 👤 關於作者 (Author)
 
-* **Developer**: Kitty
-* **Role**: Frontend Developer / UI Engineer
-* **Contact:wanyingli0817@gmail.com
+Developer: Kitty
+Role: Frontend Developer / UI Engineer
+Contact:wanyingli0817@gmail.com
 
 
 本專案僅作為個人網頁設計與前端技術展示（Concept Design）使用。專案中所使用的「利嘉閣」商標及品牌識別，其知識產權均歸該公司所有。本專案不代表利嘉閣官方立場。
