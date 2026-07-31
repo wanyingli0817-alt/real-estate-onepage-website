@@ -1,4 +1,4 @@
-##🏙️ 北部都會區地產企劃 Landing Page | Northern Metropolis Real Estate Showcase
+# 🏙️ 北部都會區地產企劃 Landing Page | Northern Metropolis Real Estate Showcase
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -13,7 +13,7 @@
 
 ---
 
-✨ 核心設計與技術亮點 (Key Features)
+## ✨ 核心設計與技術亮點 (Key Features)
 
  1. 🏢 品牌視覺與在地化商業設計 (Brand Identity)
 * **品牌基因還原**：深度汲取利嘉閣地產的色彩體系與專業信任感，設計兼具權威性與現代感的 UI 介面。
@@ -28,7 +28,7 @@
 
 ---
 
-🛠️ 技術棧 (Tech Stack)
+## 🛠️ 技術棧 (Tech Stack)
 
 * **UI Framework**: React / TypeScript
 * **Build System**: Vite (極速 HMR 熱重載與打包優化)
